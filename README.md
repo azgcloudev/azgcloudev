@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aldairzamora
-- 👀 I’m interested in networking and software development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in cloud solutions and web development
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me aldair.zamora@outlook.com
 
