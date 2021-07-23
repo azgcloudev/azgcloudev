@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aldairzamora
-- 👀 I’m interested in cloud solutions and web development
+- 👀 I’m interested in cloud solutions and web development & mobile development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me aldair.zamora@outlook.com
