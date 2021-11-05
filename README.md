@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aldairzamora
-- 👀 I’m interested in cloud solutions and web development & devops
+- 👀 I’m interested in cloud solutions and mobile development & devops
 - 🌱 I’m currently learning Python and (HTML, CSS, JS)
-- 💞️ I’m looking to collaborate on web development
+- 💞️ I’m looking to collaborate on mobile development and scripts
 - 📫 How to reach me: aldair.zamora@outlook.com
 
 <!---
