@@ -5,7 +5,7 @@ Azure Networking Support Engineer
 ---------------------------------
 
 * 🌍  I'm based in San Jose, Costa Rica
-* ✉️  You can contact me at [aldair.zamora@outlook.com](mailto:aldair.zamora@outlook.com)
+* ✉️  You can contact me at [aldair@azgcloudev.xyz](mailto:aldair@azgcloudev.xyz)
 * 🧠  I'm learning Learning C and JavaScript
 * ⚡  I love motorcycles
 
