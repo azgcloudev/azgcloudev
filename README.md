@@ -6,6 +6,7 @@ Azure Networking Support Engineer
 
 * 🌍  I'm based in San Jose, Costa Rica
 * ✉️  You can contact me at [aldair@azgcloudev.xyz](mailto:aldair@azgcloudev.xyz)
+* 🧠  Azure Networking
 * 🧠  I'm learning C, JavaScript and AWS
 * ⚡  I love motorcycles
 
