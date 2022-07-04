@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own professional development<br>👯 I’m looking to collaborate on open source projects<br>🤝 I’m looking for help with make people life easier<br>🌱 I’m currently learning aws, c++, javascript<br>💬 Ask me about motorcycle and airplanes
+🔭 I’m currently working on my own professional development<br>👯 I’m looking to collaborate on open source projects<br>🤝 I’m looking for help with making people life easier<br>🌱 I’m currently learning aws, c++, javascript<br>💬 Ask me about motorcycles and airplanes
 
 
 ## 🌐 Socials:
