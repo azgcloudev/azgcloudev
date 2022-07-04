@@ -22,10 +22,10 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=azgcloudev&icon=3&color=1)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=azgcloudev&icon=3&color=1)](https://visitcount.itsvg.in) -->
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/azgcloudev) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/azgcloudev?v=1&utm_source=unp&utm_medium=email&utm_campaign=RT000269&utm_unptid=5f757a6a-fb2f-11ec-a406-40a6b72902e0&ppid=RT000269&cnac=CR&rsta=en_US%28en-CR%29&cust=AFQPD4KERR6TY&unptid=5f757a6a-fb2f-11ec-a406-40a6b72902e0&calc=f545510134580&unp_tpcid=ppme-social-user-profile-created&page=main%3Aemail%3ART000269&pgrp=main%3Aemail&e=cl&mchn=em&s=ci&mail=sys&appVersion=1.99.0&xt=104038) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/azgcloudev) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/azgcloudev?v=1&utm_source=unp&utm_medium=email&utm_campaign=RT000269&utm_unptid=5f757a6a-fb2f-11ec-a406-40a6b72902e0&ppid=RT000269&cnac=CR&rsta=en_US%28en-CR%29&cust=AFQPD4KERR6TY&unptid=5f757a6a-fb2f-11ec-a406-40a6b72902e0&calc=f545510134580&unp_tpcid=ppme-social-user-profile-created&page=main%3Aemail%3ART000269&pgrp=main%3Aemail&e=cl&mchn=em&s=ci&mail=sys&appVersion=1.99.0&xt=104038) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
