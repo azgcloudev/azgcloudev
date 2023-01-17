@@ -101,6 +101,11 @@
 
 </td></tr></table>  
 
+<div align="center" markdown="1">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=azgcloudev&theme=noctis-minimus&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&ring=DD2727&sideNums=00B90A)](https://git.io/streak-stats)
+
+</div>
 <br/>  
 
   
