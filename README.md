@@ -1,15 +1,30 @@
 <div align="center">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pixel4k.com%2Fwp-content%2Fuploads%2F2020%2F08%2Fducati-superleggera-v4-2020_1596922436-2048x1365.jpg&f=1&nofb=1&ipt=fe22ec682a3671c63b7919f75f289833e4b4f0fac85ec11f586601155a817c23&ipo=images" align="center" style="width: 100%" />
+  
+<img src="https://cdna.artstation.com/p/assets/images/images/019/925/984/large/spencer-fitch-bg-01-p600.jpg?1565617985" align="center" style="width: 100%" />
+  
 </div>  
   
 
-<div align="center">I’m currently learning C# and JavaScript</div>  
+<div align="center">
+  
+#### 📎 I’m currently learning C# and JavaScript
+
+</div>  
   
 
-<div align="center">Ask me about anything related to Azure cloud technologies</div>  
+<div align="center">
+
+#### 📎 Ask me about anything related to Azure cloud technologies
+
+</div>  
   
 
-<div align="center">I love motorcycles and airplanes</div>  
+<div align="center">
+  
+#### 📎 I love motorcycles and airplanes
+
+</div>   
   
 
 <br/>  
