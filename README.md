@@ -152,6 +152,6 @@
             </a></div>
 <br />
 
-<img src="https://cdna.artstation.com/p/assets/images/images/019/925/984/large/spencer-fitch-bg-01-p600.jpg?1565617985" align="center" style="width: 100%" />
+<!-- <img src="https://cdna.artstation.com/p/assets/images/images/019/925/984/large/spencer-fitch-bg-01-p600.jpg?1565617985" align="center" style="width: 100%" /> -->
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
