@@ -3,10 +3,12 @@
   
 </div>  
   
-
+📍: 🇨🇷
 <div>
 <br>
-C# lover but software engineer first ❤️💻
+Learning C#, JavaScript & Go
+<br>
+Ich lerne Deutsch 🇩🇪
 </div>   
   
 
